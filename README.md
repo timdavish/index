@@ -4,6 +4,10 @@
 
 - [Dotfiles](https://github.com/timdavish/dotfiles)
 
+## Command Line Interfaces
+
+- [ginit](https://github.com/timdavish/ginit-cli) - A cli for easy `git init`ing
+
 ## Practice
 
 - [Bash Practice](https://github.com/timdavish/bash-practice)
