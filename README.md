@@ -2,7 +2,7 @@
 
 ## Config
 
-- [Dotfiles](https://github.com/timdavish/dotfiles)
+- [Dotfiles](https://github.com/timdavish/dotfiles) - A collection of dotfiles
 
 ## Command Line Interfaces
 
