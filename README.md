@@ -10,6 +10,7 @@
 ## <a name="boilerplates"></a> Boilerplates
 
 - [Airtable Starter](https://github.com/timdavish/airtable-starter) - A boilerplate for Airtable, Node & React applications
+- [Responsive Layout Starters](https://github.com/timdavish/responsive-layout-starter) - A set of boilerplates for responsive web layouts
 
 ## <a name="configuration"></a> Configuration
 
