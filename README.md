@@ -10,7 +10,6 @@
 ## <a name="boilerplates"></a> Boilerplates
 
 - [Airtable Starter](https://github.com/timdavish/airtable-starter) - A boilerplate for Airtable, Node & React applications
-- [Responsive Layout Starters](https://github.com/timdavish/responsive-layout-starter) - A set of boilerplates for responsive web layouts
 
 ## <a name="configuration"></a> Configuration
 
@@ -27,3 +26,4 @@
 
 - [Bash Practice](https://github.com/timdavish/bash-practice)
 - [JavaScript Practice](https://github.com/timdavish/js-practice)
+- [Responsive Layout Practice](https://github.com/timdavish/responsive-layout-practice)
