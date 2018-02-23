@@ -25,5 +25,6 @@
 ## <a name="practice"></a> Practice
 
 - [Bash Practice](https://github.com/timdavish/bash-practice)
+- [Frontend Practice](https://github.com/timdavish/frontend-practice)
 - [JavaScript Practice](https://github.com/timdavish/js-practice)
 - [Responsive Layout Practice](https://github.com/timdavish/responsive-layout-practice)
